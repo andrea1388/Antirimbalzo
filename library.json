@@ -1,0 +1,19 @@
+{
+  "name": "Antirimbalzo",
+  "keywords": "controllo ingressi con antirimbalzo",
+  "description": "Libreria per Arduino per controllare un ingresso",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/andrea1388/Anirimbalzo"
+  },
+  "authors":
+  [
+    {
+      "name": "Andrea Carrara",
+      "email": "andrea.carrara@libero.it",
+      "url": "https://github.com/andrea1388",
+      "maintainer": true
+    }
+  ]
+}
